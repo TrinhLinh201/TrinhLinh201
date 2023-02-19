@@ -1,4 +1,4 @@
-### Hi 👋, I'm Linh
+##### Hi 👋, I'm Linh
 
 
 
@@ -61,20 +61,10 @@
 > 🔑 25 Private Repositories  
  >  -->
 
-```
 
 
 
 
-
-```
-
-
-**Timeline**
-
-<!--END_SECTION:waka-->
-
-<br>
 
 ## 💖 Support
 <!-- - <a href="https://paypal.me/TrinhLinh201" target="_blank"><img src="https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white" title="Paypal" alt="Paypal"/></a>
