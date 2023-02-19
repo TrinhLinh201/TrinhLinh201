@@ -19,26 +19,25 @@
 
 
 
-## 🛠 Language and Tools: <br>
-<!--<code><img src="https://image.flaticon.com/icons/svg/919/919825.svg" width="50px" alt="Nodejs" title="Nodejs"/></code>
-<code><img src="https://image.flaticon.com/icons/svg/2721/2721279.svg" width="50px" alt="PHP" title="PHP" /></code>
-<code><img src="https://image.flaticon.com/icons/png/512/1183/1183622.png" width="50px" alt="VueJS" title="VueJS" /></code>
-<code><img src="https://image.flaticon.com/icons/png/512/1183/1183621.png" width="50px" alt="ReactJS" title="ReactJS" /></code>
-<code><img src="https://image.flaticon.com/icons/svg/220/220603.svg" width="50px" alt="Chrome" title="Chrome" /></code>
-<code><img src="https://image.flaticon.com/icons/svg/906/906324.svg" width="50px" alt="Visual Studio" title="Visual Studio" /></code>
-<code><img src="https://image.flaticon.com/icons/svg/1199/1199128.svg" width="50px" alt="Mysql" title="Mysql" /></code>
-<code><img src="https://image.flaticon.com/icons/svg/1199/1199118.svg" width="50px" alt="HTML 5" title="HTML 5" /></code>
-<code><img src="https://image.flaticon.com/icons/svg/74/74942.svg" width="50px" alt="Crypto" title="Crypto" /></code>
-<code><img src="https://image.flaticon.com/icons/png/512/2729/2729197.png" width="50px" alt="Hardware" title="Hardware" /></code>
-<br><br>-->
-<!-- <p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="c" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electron" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vuejs" width="40" height="40"/> <img src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png" alt="vuetify" width="40" height="40"/></p> -->
+## 🛠 Language && Framework: <br>
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Markdown]
+(https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+
+## Database: <br>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%2300599C.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 ## 🧲 Recent Activities
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/ToaHartor/GI-cutscenes/issues/70) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-2. 🗣 Commented on [#69](https://github.com/ToaHartor/GI-cutscenes/issues/69) in [ToaHartor/GI-cutscenes](https://github.com/ToaHartor/GI-cutscenes)
-3. 🎉 Merged PR [#18](https://github.com/KMA-Score/kma_score/pull/18) in [KMA-Score/kma_score](https://github.com/KMA-Score/kma_score)
-<!--END_SECTION:activity-->
+
 
 ### 📈 Profile Stats
 <p>
