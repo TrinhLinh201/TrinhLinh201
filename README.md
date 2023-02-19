@@ -38,7 +38,7 @@
 ## 🧲 Recent Activities
 
 
-### 📈 Profile Stats
+## 📈 Profile Stats
 <p>
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrinhLinh201&layout=compact&hide=html&theme=tokyonight&show_icons=true" alt="TrinhLinh201" />
 
