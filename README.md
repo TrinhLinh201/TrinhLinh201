@@ -52,7 +52,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 70 Contributions in the Year 2023
+<!-- > 🏆 70 Contributions in the Year 2023
  > 
 > 📦 181.5 kB Used in GitHub's Storage 
  > 
@@ -61,7 +61,7 @@
 > 📜 61 Public Repositories 
  > 
 > 🔑 25 Private Repositories  
- > 
+ >  -->
 
 ```
 
@@ -74,10 +74,6 @@
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/phuchptty/phuchptty/master/charts/bar_graph.png) 
-
-
- Last Updated on 18/02/2023 18:40:40 UTC
 <!--END_SECTION:waka-->
 
 <br>
